@@ -34,9 +34,10 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import webverseLogo from './assets/company_logo/webverse_logo.png';
-import agcLogo from './assets/company_logo/agc_logo.png';
+import webverseLogo from './assets/company_logo/tcil.webp';
+import agcLogo from './assets/company_logo/eil.webp';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+
 
 // Education Section Logo's
 import muit from './assets/education_logo/muit.png';
@@ -110,16 +111,13 @@ export const SkillsInfo = [
       role: "Fullstack Developer",
       company: "Telecommunications Consultants India Limited (TCIL)",
       date: "06-06-2024 – 31-07-2024 -June-July",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application.",
+      desc: "Developed dynamic and scalable web applications, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, and optimize application.",
       skills: [
         "HTML",
         "CSS",
         "JavaScript",
-        "React JS",
-        "Node JS",
-        "Express Js",
-        "Tailwind CSS",
-        "MongoDb",
+        "Php",
+        "Mysql",
       ],
     },
     {
